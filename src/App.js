@@ -68,7 +68,7 @@ function App() {
             At Rocket.io we are passionate about software
           </Typography>
           <Typography variant="h5" className={classes.littleSpace} color="primary" >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lore is supadauapl. Shamblsa doodly doo, ding dong doodly doodly doodly doodly doodly doodly doodly do, con schmechalzie unkata torbureu
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lore is supadauapl. Shamblsa doodly doo, ding dong doodly doodly doodly doodly doodly doodly do, con schmechalzie unkata torbureu
           </Typography>
         </div>
         <div className={`${classes.grid} ${classes.bigSpace}`}>
